@@ -1,4 +1,4 @@
-package BO_bees;
+package pl.bo.scheduler.pszczolki;
 
 public class Zadanie {
 	
