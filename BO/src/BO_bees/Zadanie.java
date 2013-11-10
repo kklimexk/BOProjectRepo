@@ -7,7 +7,9 @@ public class Zadanie {
 	double _atrakcyjnosc;
 	
 	Zadanie(int koszt, int czas){
-		
+		_koszt = koszt;
+		_czas = czas;
+		_atrakcyjnosc = koszt/czas;
 	}
 	
 }
