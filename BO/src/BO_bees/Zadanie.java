@@ -9,7 +9,7 @@ public class Zadanie {
 	Zadanie(int koszt, int czas){
 		_koszt = koszt;
 		_czas = czas;
-		_atrakcyjnosc = koszt/czas;
+		_atrakcyjnosc = 1.0 * koszt / czas;
 	}
 	
 }
