@@ -6,4 +6,8 @@ public class Zadanie {
 	int _czas;
 	double _atrakcyjnosc;
 	
+	Zadanie(){
+		
+	}
+	
 }
