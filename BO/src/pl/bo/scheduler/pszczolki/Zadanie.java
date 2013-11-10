@@ -10,7 +10,6 @@ public class Zadanie {
 		_koszt = koszt;
 		_czas = czas;
 		_atrakcyjnosc = 1.0 * koszt / czas;
-		//sfsfs
 	}
 	
 }
