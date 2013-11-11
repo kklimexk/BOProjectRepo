@@ -1,7 +1,7 @@
 package pl.bo.scheduler.pszczolki;
 
-public class test {
-	static beeColony bee=new beeColony();
+public class Test {
+	static BeeColony bee=new BeeColony();
 	
 	public static void main(String[] args) {
 		int iter=0;

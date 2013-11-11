@@ -1,7 +1,7 @@
 package pl.bo.scheduler.pszczolki;
 import java.lang.Math;
 
-public  class beeColony {
+public  class BeeColony {
 
 	/* Control Parameters of ABC algorithm*/
 	int NP=20; /* The number of colony size (employed bees+onlooker bees)*/

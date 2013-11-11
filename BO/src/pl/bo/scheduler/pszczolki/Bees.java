@@ -2,7 +2,7 @@ package pl.bo.scheduler.pszczolki;
 
 import java.util.List;
 
-public class bees {
+public class Bees {
 
 	List<Zadanie> _listaZadan;
 	int _worker;
